@@ -1,1 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2020-08-31T10:51:29.401Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" version="13.6.5" etag="zWH8YqVBxVdRK4FgT3Ed" type="github"><diagram id="QOV2CVPNd-CeuoFY1mSV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-31T11:09:41.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="i5HuwT3qJAHkr3rAbsFU" version="13.6.5" type="github">
+  <diagram id="QOV2CVPNd-CeuoFY1mSV" name="Page-1">
+    <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RmSnnuITwogvKqI2hKqL-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Consumer&lt;/font&gt;&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="210" width="35" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RmSnnuITwogvKqI2hKqL-4" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Seller&lt;/b&gt;&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="220" width="35" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RmSnnuITwogvKqI2hKqL-5" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.business_center;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="535" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RmSnnuITwogvKqI2hKqL-6" value="" style="html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#3B8DF1;shape=mxgraph.gcp2.cloud_computer" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="541" width="100" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="RmSnnuITwogvKqI2hKqL-7" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Issuers&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="640" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RmSnnuITwogvKqI2hKqL-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Recipients&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="630" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RmSnnuITwogvKqI2hKqL-9" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="244.5" as="sourcePoint" />
+            <mxPoint x="230" y="244.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmSnnuITwogvKqI2hKqL-10" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="280" as="sourcePoint" />
+            <mxPoint x="490" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmSnnuITwogvKqI2hKqL-11" value="&lt;b&gt;Transaction description&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="220" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RmSnnuITwogvKqI2hKqL-12" value="&lt;b&gt;Transaction certificate&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="280" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RmSnnuITwogvKqI2hKqL-13" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="574.5" as="sourcePoint" />
+            <mxPoint x="230" y="574.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="575" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmSnnuITwogvKqI2hKqL-14" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="610" as="sourcePoint" />
+            <mxPoint x="490" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmSnnuITwogvKqI2hKqL-15" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22490%22%20y%3D%22244.5%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22230%22%20y%3D%22244.5%22%20as%3D%22targetPoint%22%2F%3E%3CArray%20as%3D%22points%22%3E%3CmxPoint%20x%3D%22350%22%20y%3D%22245%22%2F%3E%3C%2FArray%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22240%22%20y%3D%22280%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22490%22%20y%3D%22280%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22%26lt%3Bb%26gt%3BTransaction%20description%26lt%3B%2Fb%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22275%22%20y%3D%22220%22%20width%3D%22150%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20value%3D%22%26lt%3Bb%26gt%3BTransaction%20certificate%26lt%3B%2Fb%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22270%22%20y%3D%22280%22%20width%3D%22140%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;font color=&quot;rgba(0, 0, 0, 0)&quot; face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;Transaction certificate&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="550" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RmSnnuITwogvKqI2hKqL-16" value="&lt;b&gt;Funds&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="610" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RmSnnuITwogvKqI2hKqL-17" value="&lt;b&gt;Transaction certificate&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="550" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RmSnnuITwogvKqI2hKqL-18" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="330" as="sourcePoint" />
+            <mxPoint x="540" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmSnnuITwogvKqI2hKqL-21" value="&lt;b&gt;Transaction certificate&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RmSnnuITwogvKqI2hKqL-18">
+          <mxGeometry x="-0.47" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmSnnuITwogvKqI2hKqL-19" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="530" as="sourcePoint" />
+            <mxPoint x="570" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmSnnuITwogvKqI2hKqL-20" value="&lt;b&gt;Funds&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RmSnnuITwogvKqI2hKqL-19">
+          <mxGeometry x="0.12" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmSnnuITwogvKqI2hKqL-22" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169.5" y="530" as="sourcePoint" />
+            <mxPoint x="169.5" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RmSnnuITwogvKqI2hKqL-23" value="&lt;b&gt;Bills&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RmSnnuITwogvKqI2hKqL-22">
+          <mxGeometry x="0.12" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
